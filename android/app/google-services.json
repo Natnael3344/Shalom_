@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "175766333251",
+    "project_id": "shalom-65e9a",
+    "storage_bucket": "shalom-65e9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175766333251:android:e955de36c43c0af04df1f6",
+        "android_client_info": {
+          "package_name": "com.shalom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAt1yRGehOjBJeZQNjx3YoQVs4_0dTGoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
